@@ -7,3 +7,6 @@
 - Supervised and unsupervised Machine Learning
 
 - Capstone Project!
+
+
+<img src = "springboard.png" width = "700" height = 500>
